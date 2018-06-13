@@ -24,6 +24,7 @@ def book_spider(book_tag):
     page_num=0;
     book_list=[]
     try_times=0
+#123
     
     while(1):
         #url='http://www.douban.com/tag/%E5%B0%8F%E8%AF%B4/book?start=0' # For Test
